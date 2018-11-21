@@ -1,0 +1,25 @@
+{
+  "id": "6b76b29a-ed8e-4780-9100-a8281a8f46c8",
+  "name": "Lab8",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": ["TranslationFile"],
+  "showMyCode": true,
+  "idRange": {
+    "from": 50100,
+    "to": 50999
+  },
+  "runtime": "2.0"
+}
